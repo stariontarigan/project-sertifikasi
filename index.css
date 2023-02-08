@@ -1,0 +1,43 @@
+/* style pada kolom harga  */
+.container .row .diskon{
+    background-color: darkred;
+    color: white;
+    width:45%;
+    text-align: center;
+    border-radius: 5%;
+}
+
+/* style pada kolom harga */
+.container .row .harga{
+   font-size: small;
+   text-decoration-line: none;
+    color: black;
+}
+.container .row .harga :hover {
+    color: darkred;
+}
+
+.container .row .Warnaharga{
+    color: darkred;
+    font-size: large;
+}
+
+/* tombol vie all */
+.container .row .tombol{
+    width:fit-content;
+    background-color: white;
+    color: darkred;
+}
+
+.container .row .tombol:hover{
+    color: white;
+    background-color: darkred;
+
+}
+.biografi{
+    margin-top: 5rem;
+}
+
+.gambarBackground{
+    background-image: url(https://png.pngtree.com/background/20220723/original/pngtree-background-abstrak-keren-picture-image_1720592.jpg);
+}
